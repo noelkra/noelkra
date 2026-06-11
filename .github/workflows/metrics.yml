@@ -17,7 +17,7 @@ jobs:
 
           # Options
           user: noelkra
-          template: classic
+          template: repository
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Zurich
           plugin_followup: yes
